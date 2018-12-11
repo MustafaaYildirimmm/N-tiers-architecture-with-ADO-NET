@@ -1,0 +1,7 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\bin\Debug\EntityLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\bin\Debug\EntityLayer.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

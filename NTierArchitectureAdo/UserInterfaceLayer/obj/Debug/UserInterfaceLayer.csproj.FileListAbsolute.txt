@@ -1,0 +1,13 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.exe
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\UserInterfaceLayer.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.Form1.resources
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.Properties.Resources.resources
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.csproj.GenerateResource.Cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.exe
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\obj\Debug\UserInterfaceLayer.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\EntityLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierArchitectureAdo\UserInterfaceLayer\bin\Debug\EntityLayer.pdb
